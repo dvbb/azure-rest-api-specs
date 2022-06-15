@@ -320,7 +320,7 @@
         "scope": {
           "type": "string",
           "readOnly": true,
-          "description": "The role assignment schedule request scope."
+          "description": "TEMP CHANGE"
         },
         "roleDefinitionId": {
           "type": "string",
@@ -422,7 +422,7 @@
               "properties": {
                 "type": {
                   "type": "string",
-                  "description": "Type of the role assignment schedule expiration",
+                  "description": "TEMP CHANGE",
                   "enum": [
                     "AfterDuration",
                     "AfterDateTime",
@@ -436,7 +436,7 @@
                 "endDateTime": {
                   "type": "string",
                   "format": "date-time",
-                  "description": "End DateTime of the role assignment schedule."
+                  "description": "TEMP CHANGE"
                 },
                 "duration": {
                   "type": "string",
